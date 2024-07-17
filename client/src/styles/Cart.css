@@ -1,0 +1,13 @@
+.button-custom {
+    bottom: 1%;
+    position: fixed;
+    right: 1%;
+}
+
+.button-custom:hover span {
+  display: none;
+}
+
+.button-custom:hover:after {
+  content: "Checkout";
+}

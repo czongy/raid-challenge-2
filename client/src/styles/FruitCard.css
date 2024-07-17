@@ -1,0 +1,32 @@
+p {
+  margin-bottom: 0.5rem;
+}
+
+span {
+  float: right;
+}
+
+.test:hover .hover-primary {
+  color: #0d6efd;
+}
+
+.btn-custom {
+  cursor: pointer;
+}
+
+.img-custom {
+    width: auto;
+    height: 200px;
+    object-fit: cover;
+}
+
+@media (max-width: 575.98px) {
+  p {
+    font-size: 12px;
+    margin-bottom: 0.25rem;
+  }
+
+  .img-custom {
+    height: 100px;
+  }
+}
