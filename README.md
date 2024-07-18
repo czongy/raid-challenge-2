@@ -1,6 +1,6 @@
-#RAiD Software Engineering Challenge
+# RAiD Software Engineering Challenge
 
-##List of the user stories implemented:
+## List of the user stories implemented:
 
     As a customer, I want to see a list of fruits that are available to buy (complete with stock and pricing information), so that I can decide which fruits I want to buy.
 
@@ -14,7 +14,8 @@
 
     As a customer, I want my order shortlist to be saved so that I can continue shopping on my device layer, even if I have not logged in.
 
-##Deployed Application:
+## Deployed Application:
+
 Application hosted at this link [Fruit Store](https://pages.github.com/](https://client-zeta-ashy.vercel.app/).
 
 Add items into the Cart and Checkout to populate the Order List and Order History
