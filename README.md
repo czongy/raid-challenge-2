@@ -16,6 +16,6 @@
 
 ## Deployed Application:
 
-Application hosted at this link [Fruit Store](https://pages.github.com/](https://client-zeta-ashy.vercel.app/).
+Application hosted at this link [Fruit Store](https://client-zeta-ashy.vercel.app/)
 
 Add items into the Cart and Checkout to populate the Order List and Order History
