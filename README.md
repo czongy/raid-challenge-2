@@ -13,9 +13,3 @@
     As a customer, I want to be able to use the app on my phone so I can shop on the go.
 
     As a customer, I want my order shortlist to be saved so that I can continue shopping on my device layer, even if I have not logged in.
-
-## Deployed Application:
-
-Application hosted at this link [Fruit Store](https://client-zeta-ashy.vercel.app/)
-
-Add items into the Cart and Checkout to populate the Order List and Order History
